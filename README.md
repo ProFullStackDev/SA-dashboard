@@ -2,7 +2,7 @@
 
 The Atlas is made up of a ReactJS frontend app, a Django backend api, and a PostGIS database.
 
-Some of the data files required to run the South Australia dataset are not included in this repo and must be downloaded separately. Instructions can be found in [data/datasets/south_australia](https://github.com/CxSci/SA-dashboard/tree/backend-api/data/datasets/south_australia).
+Some of the data files required to run the South Australia dataset are not included in this repo and must be downloaded separately. Instructions can be found in [data/datasets/south_australia](https://github.com/kevinorris/SA-dashboard/tree/backend-api/data/datasets/south_australia).
 
 ## Running the project
 
